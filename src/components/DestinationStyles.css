@@ -4,6 +4,11 @@
 
 .destination h1{
     font-size: 3rem;
+
+}
+
+.des-text p{
+    font-family: sans-serif;
 }
 
 .first-des{
